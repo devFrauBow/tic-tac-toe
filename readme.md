@@ -1,1 +1,1 @@
-Jogo da velha multiplayer para ser jogado no terminal
+Jogo da velha multiplayer para ser jogado no terminal // utilizado para o jogo da velha do discord.js (esta versao tem muitos bugs que ja consertei na versao live e nao pretendo consertar os bugs desse repositorio).
